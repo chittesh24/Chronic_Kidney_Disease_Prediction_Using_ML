@@ -1,0 +1,65 @@
+Naive bayes GaussianNB()
+
+Confusion Matrix: [[37  0]
+ [ 5 58]]
+
+
+Accuracy Score: 0.95
+
+
+Recall Score: 0.9206349206349206
+
+
+F1 Score: 0.9586776859504132
+K-Nearest Neighbors KNeighborsClassifier(n_neighbors=8)
+
+Confusion Matrix: [[31  6]
+ [18 45]]
+
+
+Accuracy Score: 0.76
+
+
+Recall Score: 0.7142857142857143
+
+
+F1 Score: 0.7894736842105263
+Random Forest RandomForestClassifier()
+
+Confusion Matrix: [[35  2]
+ [ 0 63]]
+
+
+Accuracy Score: 0.98
+
+
+Recall Score: 1.0
+
+
+F1 Score: 0.984375
+Decision Tree DecisionTreeClassifier()
+
+Confusion Matrix: [[35  2]
+ [ 2 61]]
+
+
+Accuracy Score: 0.96
+
+
+Recall Score: 0.9682539682539683
+
+
+F1 Score: 0.9682539682539683
+Support Vector Machine SVC(kernel='linear')
+
+Confusion Matrix: [[34  3]
+ [ 1 62]]
+
+
+Accuracy Score: 0.96
+
+
+Recall Score: 0.9841269841269841
+
+
+F1 Score: 0.96875
